@@ -24,8 +24,6 @@
 <img align="left" alt="BeautifulSoup" width="30px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" />
 <br />
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=andrei-ghemusi&label=Profile%20views&color=0e75b6&style=flat" alt="andrei-ghemusi" /> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +35,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrei-ghemusi&" alt="andrei-ghemusi" /></p>
+
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=andrei-ghemusi&&style=flat-square" /><br>
+</div>
