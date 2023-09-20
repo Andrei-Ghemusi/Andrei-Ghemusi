@@ -1,6 +1,6 @@
- # QA automation software tester
+ # QA automation software tester 🖥️
   
-  I am a dedicated and highly skilled QA Automation Tester with a passion for ensuring the quality and reliability of software applications. My expertise lies in leveraging cutting-edge tools and technologies to streamline the testing process and deliver impeccable results. 
+ 👋 I am a dedicated and highly skilled QA Automation Tester with a passion for ensuring the quality and reliability of software applications. My expertise lies in leveraging cutting-edge tools and technologies to streamline the testing process and deliver impeccable results. 
 
 <div align="left">
 	<img src="https://komarev.com/ghpvc/?username=andrei-ghemusi&&style=flat-square" /><br>
