@@ -1,6 +1,6 @@
  # QA automation software tester
   
-  I am a young QA software tester.
+  I am a dedicated and highly skilled QA Automation Tester with a passion for ensuring the quality and reliability of software applications. My expertise lies in leveraging cutting-edge tools and technologies to streamline the testing process and deliver impeccable results. 
 
 
 <br style="margin-bottom: 10px;" />
