@@ -21,7 +21,6 @@
 <img align="left" alt="Jirra" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 <img align="left" alt="Pytest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain-wordmark.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Playwright" width="30px" style="padding-right:10px;" src="https://yt3.googleusercontent.com/9y13pxP3xxovml6W83D4Kbq4joCA-WaKy01i1BAihK6315sPq7z_oTIa3YdGa7ws4k4aaRbf=s900-c-k-c0x00ffffff-no-rj" />
 <img align="left" alt="BeautifulSoup" width="30px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" />
 <br />
