@@ -2,6 +2,9 @@
   
   I am a dedicated and highly skilled QA Automation Tester with a passion for ensuring the quality and reliability of software applications. My expertise lies in leveraging cutting-edge tools and technologies to streamline the testing process and deliver impeccable results. 
 
+<div align="left">
+	<img src="https://komarev.com/ghpvc/?username=andrei-ghemusi&&style=flat-square" /><br>
+</div>
 
 <br style="margin-bottom: 10px;" />
 
@@ -34,7 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrei-ghemusi&show_icons=true&locale=en&layout=compact" alt="andrei-ghemusi" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrei-ghemusi&" alt="andrei-ghemusi" /></p>
-<div align="center">
-	<img src="https://komarev.com/ghpvc/?username=andrei-ghemusi&&style=flat-square" /><br>
-</div>
