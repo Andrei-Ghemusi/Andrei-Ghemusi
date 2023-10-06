@@ -34,9 +34,8 @@ src="https://img.shields.io/github/followers/Andrei-Ghemusi?logo=github&style=fo
 <a href="https://docs.pytest.org/en/7.4.x/" target="_blank" rel="noreferrer"><img align="left" alt="Pytest" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain-wordmark.svg" />
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img align="left" alt="Playwright" width="40px" style="padding-right:10px;" src="https://playwright.dev/img/playwright-logo.svg" />
-<a href="https://pypi.org/project/beautifulsoup4/" target="_blank" rel="noreferrer"><img align="left" alt="BeautifulSoup" width="40px" style="padding-right:10px;" src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" />
-<br />
-<br style="margin-bottom: 10px;" />
+
+<br style="margin-bottom: 110px;" />
 
 
 ### Socials
