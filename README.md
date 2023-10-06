@@ -6,10 +6,10 @@ Student. Software tester.
 
 As a QA automation tester, I specialize in ensuring the quality of software applications through automation testing. With my expertise in test automation tools and frameworks, I can design, develop, and execute automated test scripts, analyze results, and identify defects, all while ensuring the optimal performance and functionality of software applications.
 
-* 🌍  I'm based in Tulcea, Romania
+* 🌍  I'm based in Tulcea, Romania.
 * 🖥️  See my portfolio at [PersonalWebsite](http://andreighemusi.vercel.app/)
 * ✉️  You can contact me at [andreighemusi@gmail.com](mailto:andreighemusi@gmail.com)
-* 🧠  I'm learning Playwright
+* 🧠  I'm currently learning Playwright.
 * ⚡  I like Java more than Python.
 
 <a href="https://www.github.com/Andrei-Ghemusi" target="_blank" rel="noreferrer"><img
