@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrei Ghemusi
+Hi👋 My name is Andrei Ghemusi
 ======================================================================================================================================
 
-QA software tester
+Student. Software tester.
 ------------------
 
 As a QA automation tester, I specialize in ensuring the quality of software applications through automation testing. With my expertise in test automation tools and frameworks, I can design, develop, and execute automated test scripts, analyze results, and identify defects, all while ensuring the optimal performance and functionality of software applications.
@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/Andrei-Ghemusi?logo=github&style=fo
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img align="left" alt="Playwright" width="40px" style="padding-right:10px;" src="https://playwright.dev/img/playwright-logo.svg" />
 
 <br style="margin-bottom: 110px;" />
-
+<br />
 
 ### Socials
 
