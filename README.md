@@ -9,7 +9,7 @@ As a QA automation tester, I specialize in ensuring the quality of software appl
 * 🌍  I'm based in Tulcea, Romania.
 * 🖥️  See my portfolio at [PersonalWebsite](http://andreighemusi.vercel.app/)
 * ✉️  You can contact me at [andreighemusi@gmail.com](mailto:andreighemusi@gmail.com)
-* 🧠  I'm currently learning Playwright.
+* 🧠  I'm currently learning Playwright and Cypress.
 * ⚡  I like Java more than Python.
 
 <a href="https://www.github.com/Andrei-Ghemusi" target="_blank" rel="noreferrer"><img
